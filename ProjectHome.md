@@ -1,0 +1,1 @@
+What it does it reads a text file that follows a certain format the the program can read, and then converts the 'notes' into frequencies that can be used for system beeps.
